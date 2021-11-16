@@ -1,0 +1,23 @@
+{"memory_summary" : [{
+    "memory_capacity" : "2048 Mbytes",
+    "max_memory_mod_size" : "4096",
+    "memory_slots" : "4",
+    "error_correction" : "None",
+    "dram_freq" : "199.0 MHz",
+    "memory_timings" : "3-3-3-8(CD-RCD-RP-RAS)"}],
+  "device_locator" : [{
+    "manufacturer" : "Hyundai Electronics",
+    "part_number" : "HYMD264",
+    "serial_number" : "FFFF7240",
+    "capacity" : "512 Mbytes",
+    "memory_type" : "DDR",
+    "speed" : "200 MHz",
+    "supported_freq" : "133 MHz, 166 MHz, 200MHz",
+    "memory_timings1" : "2-2-2-6-0 at 133 MHz",
+    "memory_timings2" : "2-3-3-7-0 at 166 MHz",
+    "memory_timings3" : "3-3-3-8-0 at 200 MHz",
+    "data_width" : "64 bits",
+    "manufacturing_date" : "2005, Week 39",
+    "erp_spd_support" : "No",
+    "xmp_spd_support" : "No"}]
+    }
